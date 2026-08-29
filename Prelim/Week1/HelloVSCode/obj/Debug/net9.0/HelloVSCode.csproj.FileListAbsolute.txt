@@ -1,0 +1,15 @@
+Z:\YY915\CC-APPSDEV22\Prelim\Week1\HelloVSCode\bin\Debug\net9.0\HelloVSCode.exe
+Z:\YY915\CC-APPSDEV22\Prelim\Week1\HelloVSCode\bin\Debug\net9.0\HelloVSCode.deps.json
+Z:\YY915\CC-APPSDEV22\Prelim\Week1\HelloVSCode\bin\Debug\net9.0\HelloVSCode.runtimeconfig.json
+Z:\YY915\CC-APPSDEV22\Prelim\Week1\HelloVSCode\bin\Debug\net9.0\HelloVSCode.dll
+Z:\YY915\CC-APPSDEV22\Prelim\Week1\HelloVSCode\bin\Debug\net9.0\HelloVSCode.pdb
+Z:\YY915\CC-APPSDEV22\Prelim\Week1\HelloVSCode\obj\Debug\net9.0\HelloVSCode.GeneratedMSBuildEditorConfig.editorconfig
+Z:\YY915\CC-APPSDEV22\Prelim\Week1\HelloVSCode\obj\Debug\net9.0\HelloVSCode.AssemblyInfoInputs.cache
+Z:\YY915\CC-APPSDEV22\Prelim\Week1\HelloVSCode\obj\Debug\net9.0\HelloVSCode.AssemblyInfo.cs
+Z:\YY915\CC-APPSDEV22\Prelim\Week1\HelloVSCode\obj\Debug\net9.0\HelloVSCode.csproj.CoreCompileInputs.cache
+Z:\YY915\CC-APPSDEV22\Prelim\Week1\HelloVSCode\obj\Debug\net9.0\HelloVSCode.dll
+Z:\YY915\CC-APPSDEV22\Prelim\Week1\HelloVSCode\obj\Debug\net9.0\refint\HelloVSCode.dll
+Z:\YY915\CC-APPSDEV22\Prelim\Week1\HelloVSCode\obj\Debug\net9.0\HelloVSCode.pdb
+Z:\YY915\CC-APPSDEV22\Prelim\Week1\HelloVSCode\obj\Debug\net9.0\HelloVSCode.genruntimeconfig.cache
+Z:\YY915\CC-APPSDEV22\Prelim\Week1\HelloVSCode\obj\Debug\net9.0\ref\HelloVSCode.dll
+Z:\YY915\CC-APPSDEV22\Prelim\Week1\HelloVSCode\obj\Debug\net9.0\HelloVSCode.sourcelink.json
